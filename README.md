@@ -17,3 +17,16 @@ __Analista Programador Universitario__
 * Css
 * JavaScript
 * MySQL
+
+### Tabla de comandos
+|Commando 			| Descripción						|
+|---------			|------------						|
+|**ls** [-opciones] directorio	| Listar contendido de un directorio			|
+|**whatis** comando 		| Muestra que es lo que hace el comando			|
+|**cd** directorio		| Desplazarse cambiar entre directorios			|
+|**mkdir** directorio 		| Permite crear directorios en las rutas especificas	| 
+|**rmdir** directorio		| Eliminar directorios vacios				|
+
+### Alias usados
+1. **ll**: ls -la. Listar el contenido de manera extendida
+2. **cd**: cd ~  . Sin argumentos para ir al home
